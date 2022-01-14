@@ -1,3 +1,6 @@
+![This is an image](assets/Header_full.jpg)
+
+
 
 ### Hi there 👋
 
